@@ -1,0 +1,6 @@
+[
+  { "name": "Scope: Input", "color": "#e11d21" },
+  { "name": "Scope: Styles", "color": "#fbca04" },
+  { "name": "Scope: Tests", "color": "#84b6eb" },
+  { "name": "Scope: Tools", "color": "#cc317c" }
+]
